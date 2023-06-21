@@ -16,7 +16,6 @@ export default function App() {
           </a>{" "}
           and is
           <a
-          
             rel="noreferrer"
             href="https://github.com/ClairePasquiou/react-weather-app-final"
             target="_blank">
