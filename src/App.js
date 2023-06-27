@@ -14,7 +14,7 @@ export default function App() {
             href="https://willowy-centaur-da4a04.netlify.app/">
             Claire Pasquiou
           </a>{" "}
-          and is
+          using REACT and is
           <a
             rel="noreferrer"
             href="https://github.com/ClairePasquiou/react-weather-app-final"
